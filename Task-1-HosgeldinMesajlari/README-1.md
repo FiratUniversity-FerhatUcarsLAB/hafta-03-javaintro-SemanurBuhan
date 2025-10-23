@@ -1,4 +1,5 @@
 Öğrenci AD-SOYAD: SEMANUR BUHAN
+
 Öğrenci NO: 250541007
 
 
@@ -16,5 +17,6 @@ Basit bir Java deseni (şekil) 🖼️ oluşturuldu.
 Ekrana 3️⃣ farklı mesaj yazdırıldı.
 
 👨‍💻 Kullanılan Teknoloji: Java
+
 
 

@@ -1,4 +1,4 @@
-ğrenci Ad- Soyad: SEMANUR BUHAN
+Öğrenci Ad- Soyad: SEMANUR BUHAN
 
 Öğrenci No: 250541007
 
@@ -15,3 +15,4 @@ En az iki farklı matematiksel işlemin sonucu ➕➖.
 Belirli bir aralıktaki sayıların toplama serisini 🔢 bulma.
 
 💻 Kullanılan Teknoloji: Java
+

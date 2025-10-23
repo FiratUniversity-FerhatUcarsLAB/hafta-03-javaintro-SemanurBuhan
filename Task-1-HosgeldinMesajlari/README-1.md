@@ -3,8 +3,9 @@
 
 
 
-☕ Java Giriş Ödevi - İlk Adımlar
-Merhaba! 👋 Bu repoda, Java dersi için hazırladığım ilk ödev bulunuyor.
+☕ Java Giriş Ödevi - GÖREV 1 HELLO
+
+ Bu repoda, Java dersi için hazırladığım ilk ödev bulunuyor.
 
 🚀 Yapılanlar:
 
@@ -15,4 +16,5 @@ Basit bir Java deseni (şekil) 🖼️ oluşturuldu.
 Ekrana 3️⃣ farklı mesaj yazdırıldı.
 
 👨‍💻 Kullanılan Teknoloji: Java
+
 
